@@ -1,0 +1,54 @@
+'.menu-view':{
+	backgroundColor: '#FFFFFF',
+	borderColor: '#222222',
+	borderWidth: '1px',
+	height: Ti.UI.FIT,
+	left: '-80%',
+	separatorColor: 'transparent',
+	width: '80%',
+	zIndex: 9,
+	_toggle: false
+},
+'.menu-header':{
+	backgroundColor: 'transparent',
+	backgroundImage: '/images/semaforo.jpg',
+	bottom: '8dp',
+	height: '180dp',
+	selectedBackgroundColor: Alloy.CFG.dark_main_color,
+	width: Ti.UI.FIT
+},
+'.menu-row':{
+	backgroundColor: 'transparent',
+	height: '48dp',
+	selectedBackgroundColor: Alloy.CFG.dark_main_color,
+	width: '100%'
+},
+'.menu-row-image':{
+	left: '16dp',
+	height: '18dp',
+	width: '18dp'
+},
+'.menu-row-text':{
+	backgroundColor: 'transparent',
+	color: '#000000',
+	font: {
+		fontFamily: Alloy.CFG.body2_font,
+		fontSize: Alloy.CFG.body2_size
+	},
+	left: '72dp',
+	textAlign: Ti.UI.TEXT_ALIGNMENT_LEFT,
+},
+'#index_menu_row_image':{
+	image: '/images/icons/home.png'
+},
+'#drivers_menu_row_image':{
+	image: '/images/icons/person.png'
+},
+'#teams_menu_row_image':{
+	image: '/images/icons/car.png'
+},
+'#races_menu_row_image':{
+	image: '/images/icons/gesture.png'
+}
+
+

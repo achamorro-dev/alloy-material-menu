@@ -1,0 +1,7 @@
+"/Users/alberto/Titanium_Studio_Workspace/alloy-material-menu/build/android/gen/android/support/v7/appcompat/R.java"
+"/Users/alberto/Titanium_Studio_Workspace/alloy-material-menu/build/android/gen/com/ach4m0/alloymaterialmenu/AlloyMaterialMenuActivity.java"
+"/Users/alberto/Titanium_Studio_Workspace/alloy-material-menu/build/android/gen/com/ach4m0/alloymaterialmenu/AlloyMaterialMenuAppInfo.java"
+"/Users/alberto/Titanium_Studio_Workspace/alloy-material-menu/build/android/gen/com/ach4m0/alloymaterialmenu/AlloyMaterialMenuApplication.java"
+"/Users/alberto/Titanium_Studio_Workspace/alloy-material-menu/build/android/gen/com/ach4m0/alloymaterialmenu/ApplicationStylesheet.java"
+"/Users/alberto/Titanium_Studio_Workspace/alloy-material-menu/build/android/gen/com/ach4m0/alloymaterialmenu/R.java"
+"/Users/alberto/Titanium_Studio_Workspace/alloy-material-menu/build/android/gen/ti/modules/titanium/ui/R.java"

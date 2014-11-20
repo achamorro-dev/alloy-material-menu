@@ -1,0 +1,12 @@
+<Alloy>
+	<Window class="container">
+		<View class="statusbar-background"></View>
+		<View class="actionbar" id="actionbar">
+			<Button id="menu_icon" class="actionbar-main-icon" onClick="toggleMenu"></Button>
+			<Label id="menu_title" class="actionbar-title">Titulo</Label>
+		</View>
+		<View class="actionbar-shadow" id="actionbar_shadow"></View>
+		<ScrollView id="scrollView" width="100%" height="100%" backgroundColor="#FFF"></ScrollView>
+		<Require src="menu" id="menu"></Require>
+	</Window>
+</Alloy>

@@ -1,0 +1,21 @@
+<Alloy>
+	<TableView id="menu_view" class="menu-view">
+		<TableViewRow class="menu-header"></TableViewRow>
+		<TableViewRow class="menu-row" id="index_menu_row" onClick="menuItemFunction">
+			<ImageView class="menu-row-image" id="index_menu_row_image"></ImageView>
+			<Label class="menu-row-text" text="Inicio"></Label>
+		</TableViewRow>
+		<TableViewRow class="menu-row" id="drivers_menu_row" onClick="menuItemFunction">
+			<ImageView class="menu-row-image" id="drivers_menu_row_image"></ImageView>
+			<Label class="menu-row-text" text="Pilotos"></Label>
+		</TableViewRow>
+		<TableViewRow class="menu-row" id="teams_menu_row" onClick="menuItemFunction">
+			<ImageView class="menu-row-image" id="teams_menu_row_image"></ImageView>
+			<Label class="menu-row-text" text="Equipos"></Label>
+		</TableViewRow>
+		<TableViewRow class="menu-row" id="races_menu_row" onClick="menuItemFunction">
+			<ImageView class="menu-row-image" id="races_menu_row_image"></ImageView>
+			<Label class="menu-row-text" text="Circuitos"></Label>
+		</TableViewRow>
+	</TableView>
+</Alloy>

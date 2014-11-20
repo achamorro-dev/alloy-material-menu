@@ -1,0 +1,1 @@
+/Users/alberto/Titanium_Studio_Workspace/alloy-material-menu/Resources/android/alloy/sync/sql.js
